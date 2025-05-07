@@ -11,8 +11,7 @@ A web application that helps users detect plant diseases from leaf images using 
 - [Screenshots](#screenshots)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Tech Stack](#tech-stack)
+
 
 ---
 
